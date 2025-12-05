@@ -1,0 +1,6 @@
+Flask==2.3.2
+requests==2.31.0
+googletrans==4.0.0-rc1
+schedule==1.1.0
+unittest
+coverage
